@@ -1,2 +1,4 @@
-# alpha-stagger-pcb
-Project files for alpha staggered PCB with split and exploded thumbs
+# Pivot - Alpha Stagger PCB and Case
+
+
+
